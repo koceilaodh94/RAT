@@ -1,0 +1,55 @@
+.text-center img{
+    width:100px;
+    height: 100px;}
+
+
+body, html {
+    height:100%;
+    width: 100%;
+    overflow-x: hidden;
+    font-family: 'Dosis', sans-serif;
+}
+.form-container {
+    background-color:rgb(255,255,255);
+    width: 30%;
+    height: 550px;
+    margin-left: 35%;
+    margin-top: 1%;
+    margin-bottom: 20px;
+    
+    }
+.form-control{
+    width: 300%;
+    height: 30%;
+    margin-left: -100%;
+    margin-bottom: 10px;
+
+
+}
+    .form-group{
+    width: 30%;
+    height: 100%;
+    margin-left: 35%;
+    margin-right: 50%;
+    padding: 0;
+    margin-bottom: 5px;
+
+    }
+    .already{
+    width: 30%;
+    height: 100%;
+    margin-left: 35%;
+    margin-right: 50%;
+    padding: 0;
+    margin-bottom: 10px;
+    }
+
+.login-clean{ background-color:rgb(255,255,255);
+    width: 30%;
+    height: 500px;
+    margin-left: 35%;
+    margin-top: 8%;
+    margin-bottom: 10px;}
+    .forgot{
+        margin-left: 100px;
+    }

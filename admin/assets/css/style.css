@@ -1,0 +1,72 @@
+.table{
+	background-color:rgb(255,255,255,0.2);
+    width: 30%;
+    height: 400px;
+    margin-right: -10px;
+    margin-top: 1%;
+    margin-bottom: 10px;
+}
+.tableConnect{
+	background-color:rgb(255,255,255,0.2);
+    width: 30%;
+    height: 200px;
+    margin-right: -10px;
+    margin-top: 5%;
+    margin-bottom: 10px;
+}
+#prenom{
+	width: 98%;
+	height: 30px;
+    margin-bottom: 5px;
+}
+
+#nom{
+	width: 98%;
+	height: 30px;
+    margin-bottom: 5px;
+}
+
+#mail{
+	width: 98%;
+	height: 30px;
+    margin-bottom: 5px;
+}
+#mailC{
+	width: 98%;
+	height: 30px;
+    margin-bottom: 5px;
+}
+
+#mail2{
+	width: 98%;
+	height: 30px;
+    margin-bottom: 5px;
+}
+#mdp{
+	width: 98%;
+	height: 30px;
+    margin-bottom: 5px;
+}
+#mdpC{
+width: 98%;
+	height: 30px;
+    margin-bottom: 5px;
+}
+#mdp2{
+	width: 98%;
+	height: 30px;
+    margin-bottom: 5px;
+}
+.btn{
+width: 80%;
+	height: 30px;
+    margin-bottom: 5px;
+
+}
+
+.text-center img{
+    width:100px;
+    height: 100px;
+    margin-top: 50%;
+
+}

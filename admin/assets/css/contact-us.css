@@ -1,0 +1,73 @@
+#contact-us{
+color: #ff6666;
+position: fixed;
+top: 5px;
+left: 223px;
+height: 20px;
+}
+
+#contact-us select{
+   border: none;
+  list-style-type: none;
+     -webkit-appearance: none;
+   -moz-appearance: none;
+   appearance: none;
+   color: #ff6666;
+}
+#contact-us select a{
+  list-style-type: none;
+  text-decoration: none;
+}
+
+#list-of-languages{
+  position: fixed;
+  top: 5px;
+  left: 1177px;
+  color: #ff6666;
+}
+#list-of-languages ul{
+display: inline-flex;
+list-style-type: none;
+color: #ff6666;;
+}
+
+#list-of-languages a{
+  text-decoration: none;
+  color: #ff6666;
+}
+@media screen and (max-width: 400px) {
+  #contact-us{
+font-size: 10px;
+position: fixed;
+width: 300px;
+top: 0px;
+left: 2px;
+  }
+
+  #list-of-languages ul{
+    position: fixed;
+    top: 0px;
+    left: 0px
+    font-size: 10px;
+  }
+}
+
+#logo-bbc{
+  width: 150px;
+  height: 80px;
+}
+@media (min-width: 400px) and (max-width: 1200px){
+  #contact-us{
+    font-size: 12px;
+    position: fixed;
+    top: 0px;
+    left: 200px;
+  }
+
+    #list-of-languages{
+    position: fixed;
+    top: 0px;
+    left: 200px
+    font-size: 10px;
+  }
+}
